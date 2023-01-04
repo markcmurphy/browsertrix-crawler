@@ -20,7 +20,7 @@ export const screenshotTypes = {
   "fullPage": {
     type: "png",
     omitBackground: true,
-    fullPage: false
+    fullPage: true
   }
 };
 
